@@ -1,6 +1,6 @@
 provider "google" {
-  credentials = "${file("ejkinger-c2a426305524.json")}"
-  project     = "ejkinger"
+  credentials = "${file("ejkinger-241216-27f94e87b59e.json")}"
+  project     = "ejkinger-241216"
   region      = "us-east1"
 }
 
